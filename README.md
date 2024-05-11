@@ -22,7 +22,7 @@ git clone https://github.com/BhatiaRaj/DDoS---Distributed-Denial-of-Service
 2. Navigate to the directory:
 
 ```
-cd ddos-attack-script
+cd DDoS-Distributed-Denial-of-Service
 ```
 
 3. Run the script:
