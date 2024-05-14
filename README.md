@@ -5,7 +5,7 @@ This is a Python script for launching a simple DDoS (Distributed Denial of Servi
 
 ## Disclaimer
 
-This script is provided for educational purposes only. Any misuse of this script is strictly prohibited. The author will not be responsible for any damage caused by the misuse of this script.
+Please note: It's important to use this script responsibly. Unauthorized DDoS attacks are illegal and unethical. This script should only be used for educational purposes or legitimate network stress testing with permission.
 
 ## Requirements
 
